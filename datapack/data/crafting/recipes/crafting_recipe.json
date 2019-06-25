@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        {
+            "item": "minecraft:golden_carrot"
+        },
+        {
+            "item": "minecraft:golden_apple"
+        }
+    ],
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}
