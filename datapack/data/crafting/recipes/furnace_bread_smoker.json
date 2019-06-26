@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:wheat"
+    },
+    "result": "minecraft:bread",
+    "experience": 2,
+    "cookingtime": 200
+}
