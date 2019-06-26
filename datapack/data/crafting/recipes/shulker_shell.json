@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purpur_pillar"
+        },
+        {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        {
+            "item": "minecraft:purpur_pillar"
+        }
+    ],
+    "result": {
+        "item": "minecraft:shulker_shell",
+        "count": 1
+    }
+}
