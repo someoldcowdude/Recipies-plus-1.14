@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:seagrass"
+        }
+    ],
+    "result": {
+        "item": "minecraft:scute",
+        "count": 1
+    }
+}
